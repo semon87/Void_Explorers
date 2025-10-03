@@ -75,6 +75,16 @@ From EarthData to Action: Cloud Computing with Earth Observation Data for Predic
 - Clean and intuitive interface.  
 - Visual cues (colors, icons, graphs) for easy understanding and quick assessment of air quality.
 
+## 🤖 Use of Artificial Intelligence (AI)
+- Script Writing, Machine Learning python code using Chatgpt
+- Video generating by GoogleVEO
+
+## Tools Used:
+- Canva, Clipchamp (Video Editing)
+- Figma (Prototype)
+- GoogleColab (ML code)
+
+
 
 
 
