@@ -30,14 +30,14 @@ From EarthData to Action: Cloud Computing with Earth Observation Data for Predic
 
 ## 🎨 Prototype (Figma Design)  
 👉 Explore our app design here: https://www.figma.com/proto/iGFTphnZv37VJrlOBZXXWe/AquAir-App?node-id=42-482&t=XyLj0VKTS0tWALop-1&starting-point-node-id=42%3A482
-#ScreenShots:
-1.<img width="309" height="666" alt="image" src="https://github.com/user-attachments/assets/16b8788f-5296-4f15-a3a4-3b88bf92144e" />
-2.<img width="315" height="669" alt="image" src="https://github.com/user-attachments/assets/bb17e970-c372-47be-bf4e-4780b2170213" />
-3.<img width="310" height="666" alt="image" src="https://github.com/user-attachments/assets/6ee97202-54c5-4b3b-aa7a-96c912229add" />
-4.<img width="308" height="666" alt="image" src="https://github.com/user-attachments/assets/a54f2bce-c483-4d12-be18-3d158c1a2d61" />
-5.<img width="314" height="678" alt="image" src="https://github.com/user-attachments/assets/799bfb58-6c34-4030-96ab-5ee1663c20d9" />
-6.<img width="305" height="657" alt="image" src="https://github.com/user-attachments/assets/55ac0f95-a44e-4b72-832e-773afd74153a" />
 
+## ScreenShots:
+<img width="309" height="666" alt="image" src="https://github.com/user-attachments/assets/16b8788f-5296-4f15-a3a4-3b88bf92144e" />
+<img width="315" height="669" alt="image" src="https://github.com/user-attachments/assets/bb17e970-c372-47be-bf4e-4780b2170213" />
+<img width="310" height="666" alt="image" src="https://github.com/user-attachments/assets/6ee97202-54c5-4b3b-aa7a-96c912229add" />
+<img width="308" height="666" alt="image" src="https://github.com/user-attachments/assets/a54f2bce-c483-4d12-be18-3d158c1a2d61" />
+<img width="314" height="678" alt="image" src="https://github.com/user-attachments/assets/799bfb58-6c34-4030-96ab-5ee1663c20d9" />
+<img width="305" height="657" alt="image" src="https://github.com/user-attachments/assets/55ac0f95-a44e-4b72-832e-773afd74153a" />
 
 
 
@@ -74,6 +74,7 @@ From EarthData to Action: Cloud Computing with Earth Observation Data for Predic
 ### 5. User Experience
 - Clean and intuitive interface.  
 - Visual cues (colors, icons, graphs) for easy understanding and quick assessment of air quality.
+
 
 
 
